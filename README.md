@@ -12,7 +12,7 @@
  - http://localhost:3000/api-docs
 
 ## Api used 
- - https://www.exchangeratesapi.io
+ - https://exchangeratesapi.io
 
 ## Database 
  - https://www.mongodb.com
